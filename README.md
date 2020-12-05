@@ -34,6 +34,7 @@ We could also find data outside of kickstarter and compare our findings (such as
 
 We could provide analysis on if # of backers affects the succes of a campaign
 We could provide analysis on country by country. Louise is set on USA/UK but maybe there are better options out there we are not looking at
+With more data we could compare if crowdfunding website affects the outcomes
 
   ![](Success_Based_on_Country.png)
 
