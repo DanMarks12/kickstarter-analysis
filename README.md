@@ -16,7 +16,7 @@ We began our analysis by creating some more usable data. This includes further s
 Campaigns launched in June and May were more succesful
 Campaigns launched in January July and December had a much greater chance of failure
 
- ![](Outcomes Based on Launch Date.png)
+ ![](Outcomes_based_Launch_Date.png)
 
 #### What can you conclude about the Outcomes based on Goals?
 
