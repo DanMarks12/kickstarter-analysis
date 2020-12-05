@@ -7,7 +7,7 @@ We are tasked with the thrilling challenge of helping Louse make desicions to la
 ### Analysis
 We began our analysis by creating some more usable data. This includes further splitting Category column into its own "Parent Category" and "Subcategory" column for futher control over our scope of the data. We also needed to adjust the dates for deadline and launch so that we are able to use them in analysis. Not only did this allow us to create line charts over time (line plots) it also allowed us to create a "year" column/filter so that we can visualize the data month by month throughout the years (shown below). Since I am very experience in excel and use it in my everyday life I did not really experience any challenges in this Project but I could see where some would come up. Pivot tables can be pretty tricky for a beginner and being able to manipulate the data and add rows/columns/filters/values in the correct order is vital in creating a layered pivotal table. In addition this was a lot of data with a lot of columns, it can be confusing to traverse through the mini analysis we performed some only using minimal columns of the total data set. Another limitation for some could be the fact we are using different versions of excel and the examples may not have matched up completly with your actual excel (I experienced this problem a couple times)
 
-        ![](Theatre_Outcomes_vs_Launch.png)
+  ![](Theatre_Outcomes_vs_Launch.png)
 
 ### Questions
 
